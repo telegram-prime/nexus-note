@@ -1,5 +1,7 @@
 # Nexus Note - The Ultimate Tool for Generating One-Time Notes
 
+- [Описание на русском тут.](https://github.com/telegram-prime/nexus-note/blob/main/README.md)
+
 ## **Introducing Nexus Note** – the revolutionary software that effortlessly creates disposable messages, ensuring the utmost safety and confidentiality. An indispensable tool not only for message broadcasters but also for marketers and advertisers. This software is your go-to solution for secure and efficient communication, offering the perfect blend of simplicity and advanced functionality.
 
 
